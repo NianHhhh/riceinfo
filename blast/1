@@ -1,0 +1,35 @@
+---
+title: "Blast"
+---
+
+## BLAST Search
+
+Enter your sequence below to perform a BLAST search:
+
+<form id="blastForm">
+  <textarea id="sequence" name="sequence" rows="4" cols="50" required></textarea><br>
+  <input type="submit" value="Submit">
+</form>
+
+<div id="results">
+  <!-- Results will be displayed here -->
+</div>
+
+<script>
+document.getElementById('blastForm').onsubmit = function(event) {
+  event.preventDefault();
+  fetch('/api/blast', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      sequence: document.getElementById('sequence').value
+    })
+  }).then(response => response.json())
+    .then(data => {
+      document.getElementById('results').innerHTML = `<pre>${data.result}</pre>`;
+    })
+    .catch(error => console.error('Error:', error));
+};
+</script>
