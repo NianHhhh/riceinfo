@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literature on RiceInfo</title>
-    <link>https://nianhhhh.github.io/riceinfo/literature/</link>
+    <link>https://riceinfo.netlify.app/literature/</link>
     <description>Recent content in Literature on RiceInfo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/riceinfo/literature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://riceinfo.netlify.app/literature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Growth and Developmental Dynamics in Rice</title>
-      <link>https://nianhhhh.github.io/riceinfo/literature/1/</link>
+      <link>https://riceinfo.netlify.app/literature/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/riceinfo/literature/1/</guid>
+      <guid>https://riceinfo.netlify.app/literature/1/</guid>
       <description>Glutaredoxin in Rice Growth, Development, and Stress Resistance: Mechanisms and Research Advances Branching in rice Temperatures and the growth and development of maize and rice: a review OsRbohI Regulates Rice Growth and Development via Jasmonic Acid Signalling Flower development in rice Multifloret spikelet improves rice yield Regulation of meristem maintenance and organ identity during rice reproductive development Leaf direction: Lamina joint development and environmental responses Understanding epigenomics based on the rice model Update on the Roles of Rice MAPK Cascades Improving Rice Grain Quality: State-of-the-Art and Future Prospects OsBC1L1 and OsBC1L8 function in stomatal development in rice Cytological analysis and genetic control of rice anther development Root Development and Stress Tolerance in rice: The Key to Improving Stress Tolerance without Yield Penalties Rice Field Spiders in China: A Review of the Literature Molecular basis underlying rice tiller angle: Current progress and future perspectives Indica rice (Oryza sativa, BR29 and IR64) Transcription factor OsNF-YB9 regulates reproductive growth and development in rice Physiological causes of transplantation shock on rice growth inhibition and delayed heading OsMORF9 is necessary for chloroplast development and seedling survival in rice OsZIP11 is a trans-Golgi-residing transporter required for rice iron accumulation and development Silicon application improves caryopsis development and yield in rice What is going on with the hormonal control of flowering in plants?</description>
     </item>
     <item>
       <title>Nutritional and value aspects of rice</title>
-      <link>https://nianhhhh.github.io/riceinfo/literature/4/</link>
+      <link>https://riceinfo.netlify.app/literature/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/riceinfo/literature/4/</guid>
+      <guid>https://riceinfo.netlify.app/literature/4/</guid>
       <description>Chrononutrition in the management of diabetes Current Guidelines and Future Strategies for the Management of Cow&amp;rsquo;s Milk Allergy Biotin Deficiency Brown Rice Versus White Rice: Nutritional Quality, Potential Health Benefits, Development of Food Products, and Preservation Technologies Phytosterols in rice bran and their health benefits Supplements for Lipid Lowering: What Does the Evidence Show?</description>
     </item>
     <item>
       <title>Processing and utilization of rice.</title>
-      <link>https://nianhhhh.github.io/riceinfo/literature/3/</link>
+      <link>https://riceinfo.netlify.app/literature/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/riceinfo/literature/3/</guid>
+      <guid>https://riceinfo.netlify.app/literature/3/</guid>
       <description>Effect of processing methods and storage on the bioactive compounds of black rice (Oryza sativa L.</description>
     </item>
     <item>
       <title>Research on disease resistance in rice</title>
-      <link>https://nianhhhh.github.io/riceinfo/literature/2/</link>
+      <link>https://riceinfo.netlify.app/literature/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/riceinfo/literature/2/</guid>
+      <guid>https://riceinfo.netlify.app/literature/2/</guid>
       <description>Recent Progress in Rice Broad-Spectrum Disease Resistance Calcium-binding protein OsANN1 regulates rice blast disease resistance by inactivating jasmonic acid signaling Rice domestication The ANIP1-OsWRKY62 module regulates both basal defense and Pi9-mediated immunity against Magnaporthe oryzae in rice Past and Future Epidemiological Perspectives and Integrated Management of Rice Bakanae in Korea Using Wolbachia to control rice planthopper populations: progress and challenges Kernel Smut and False Smut: The Old-Emerging Diseases of Rice-A Review Rodent management and cereal production in Asia: Balancing food security and conservation A detailed landscape of CRISPR-Cas-mediated plant disease and pest management Dynamic analysis and control of a rice-pest system under transcritical bifurcations An intelligent monitoring system of diseases and pests on rice canopy Arms and ammunitions: effectors at the interface of rice and it&amp;rsquo;s pathogens and pests Pesticide-Induced Planthopper Population Resurgence in Rice Cropping Systems Bacterial reproductive manipulators in rice planthoppers Resistance to Planthoppers and Southern Rice Black-streaked Dwarf Virus in Rice Germplasms A review of approaches to control bacterial leaf blight in rice Occurrence and distribution of geminiviruses in China Sheath blight of rice: a review and identification of priorities for future research Bacteriocins Targeting Gram-Negative Phytopathogenic Bacteria: Plantibiotics of the Future Insecticide resistance reduces the profitability of insect-resistant rice cultivars Control of Rice Powder Pest Sitophilus oryzae L.</description>
     </item>
   </channel>
